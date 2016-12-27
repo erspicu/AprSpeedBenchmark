@@ -1,0 +1,7 @@
+C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\GBA_effect\bin\Debug\GBA_effect.exe
+C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\GBA_effect\bin\Debug\GBA_effect.pdb
+C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\GBA_effect\obj\Debug\GBA_effect.BenchMarkUI.resources
+C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\GBA_effect\obj\Debug\GBA_effect.Properties.Resources.resources
+C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\GBA_effect\obj\Debug\AprSpeedBenchmark.csproj.GenerateResource.Cache
+C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\GBA_effect\obj\Debug\GBA_effect.exe
+C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\GBA_effect\obj\Debug\GBA_effect.pdb
