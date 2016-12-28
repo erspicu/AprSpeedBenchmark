@@ -5,3 +5,11 @@ C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\GBA_effect\obj\Debug\GBA_effe
 C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\GBA_effect\obj\Debug\AprSpeedBenchmark.csproj.GenerateResource.Cache
 C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\GBA_effect\obj\Debug\GBA_effect.exe
 C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\GBA_effect\obj\Debug\GBA_effect.pdb
+C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\AprSpeedBenchmark\bin\Debug\AprSpeedBenchmark.exe.config
+C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\AprSpeedBenchmark\bin\Debug\AprSpeedBenchmark.exe
+C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\AprSpeedBenchmark\bin\Debug\AprSpeedBenchmark.pdb
+C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\AprSpeedBenchmark\obj\Debug\GBA_effect.BenchMarkUI.resources
+C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\AprSpeedBenchmark\obj\Debug\AprSpeedBenchmark.Properties.Resources.resources
+C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\AprSpeedBenchmark\obj\Debug\AprSpeedBenchmark.csproj.GenerateResource.Cache
+C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\AprSpeedBenchmark\obj\Debug\AprSpeedBenchmark.exe
+C:\Users\abraxas\Dropbox\gba_dev\AprSpeedBenchmark\AprSpeedBenchmark\obj\Debug\AprSpeedBenchmark.pdb
